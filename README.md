@@ -1,0 +1,1 @@
+# Blind-Aid-Intel_OneApi_Hackathon
