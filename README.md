@@ -38,12 +38,6 @@ The **Assistive System for Blind People** is designed to address two critical ch
    streamlit currency_reader.py
    ```
 
-## Future Enhancements
-- **Implement Voice Alerts:** Enhance the obstacle detection module by incorporating voice alerts. For instance, when an object is detected ahead, the system can audibly announce, "Object detected! Please change your path."
-- **Explore Additional Currency Recognition Models:** Investigate other pre-trained models or custom architectures to improve the accuracy of currency recognition. Consider ensemble methods or fine-tuning on a larger dataset for better performance.
-- **Video-Based Obstacle Detection:** Extend the obstacle detection capabilities from static images to real-time video streams. Utilize video frames to identify obstacles and provide timely warnings to the user.
-- **Dynamic Currency Prediction:** Currently, currency recognition is based on static images. Enhance the system to predict currency denominations from live video feeds, allowing blind users to identify money in real time.
-
 ## Results and Visuals
 
 
@@ -59,6 +53,14 @@ The **Assistive System for Blind People** is designed to address two critical ch
 
 #### Currency Detector
 ![currency detector](https://github.com/Mochoye/assistive-system-for-blind/assets/95351969/19a54c0b-7bd0-4a1b-98b7-79f096b73af1)
+
+## Future Enhancements
+- **Implement Voice Alerts:** Enhance the obstacle detection module by incorporating voice alerts. For instance, when an object is detected ahead, the system can audibly announce, "Object detected! Please change your path."
+- **Explore Additional Currency Recognition Models:** Investigate other pre-trained models or custom architectures to improve the accuracy of currency recognition. Consider ensemble methods or fine-tuning on a larger dataset for better performance.
+- **Video-Based Obstacle Detection:** Extend the obstacle detection capabilities from static images to real-time video streams. Utilize video frames to identify obstacles and provide timely warnings to the user.
+- **Dynamic Currency Prediction:** Currently, currency recognition is based on static images. Enhance the system to predict currency denominations from live video feeds, allowing blind users to identify money in real time.
+
+
 
 
 
