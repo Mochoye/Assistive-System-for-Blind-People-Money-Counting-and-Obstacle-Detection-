@@ -44,5 +44,33 @@ The **Assistive System for Blind People** is designed to address two critical ch
 - **Video-Based Obstacle Detection:** Extend the obstacle detection capabilities from static images to real-time video streams. Utilize video frames to identify obstacles and provide timely warnings to the user.
 - **Dynamic Currency Prediction:** Currently, currency recognition is based on static images. Enhance the system to predict currency denominations from live video feeds, allowing blind users to identify money in real time.
 
+## Results and Visuals
+
+
+### Obstacle Detection
+#### Image Provided
+![gettyimages-928538518-640x640](https://github.com/Mochoye/assistive-system-for-blind/assets/95351969/6e1a7fa5-2443-458b-a8a0-674f5c471330)
+#### HeatMap for Depth Estimation (Midas)
+![heatmap](https://github.com/Mochoye/assistive-system-for-blind/assets/95351969/6cfcc9cc-44dd-4ba2-b783-4832a9dd9bd2)
+#### Object Detection(Yolov9)
+![BoundingBox](https://github.com/Mochoye/assistive-system-for-blind/assets/95351969/533061d6-3bb2-4383-b8a9-41321a8d556e)
+#### Obstacle Detection
+![Screenshot](https://github.com/Mochoye/assistive-system-for-blind/assets/95351969/9d212527-c879-43c1-8cf3-1ad924af55da)
+
+
+## Conclusion
+
+This Assistive System for Blind People represents a significant step toward improving the quality of life for visually impaired individuals. By combining obstacle detection, currency recognition, and money counting, we aim to empower blind users with greater independence and confidence.
+
+Feel free to contribute to this open-source project and make a positive impact in the lives of those who need it most! 🌟
+
+
+## License
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code as long as you comply with the terms specified in the LICENSE file.
+
+##
+
+
+
 
 
