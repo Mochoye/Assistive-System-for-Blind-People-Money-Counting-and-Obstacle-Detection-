@@ -57,6 +57,10 @@ The **Assistive System for Blind People** is designed to address two critical ch
 #### Obstacle Detection
 ![Screenshot](https://github.com/Mochoye/assistive-system-for-blind/assets/95351969/9d212527-c879-43c1-8cf3-1ad924af55da)
 
+#### Currency Detector
+![currency detector](https://github.com/Mochoye/assistive-system-for-blind/assets/95351969/19a54c0b-7bd0-4a1b-98b7-79f096b73af1)
+
+
 
 ## Conclusion
 
