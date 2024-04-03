@@ -31,11 +31,11 @@ The **Assistive System for Blind People** is designed to address two critical ch
 ## Usage
 1. Run the obstacle detection module:
    ```bash
-    python obstacle_detection.py
+    streamlit run obstacle_detection.py
    ```
 2. Run the currency reader module:
    ```bash
-   python currency_reader.py
+   streamlit currency_reader.py
    ```
 
 ## Future Enhancements
